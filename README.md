@@ -23,6 +23,7 @@ cd sample_app
 flutter run
 ```
 
+You can use `flutter devices` command to see the list of available devices.
 If you have multiple devices enabled for your app you can specifically run it for Linux desktop using this command:
 
 ```console
